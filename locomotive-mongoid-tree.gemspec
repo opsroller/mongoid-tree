@@ -1,5 +1,5 @@
 Gem::Specification.new do |s|
-  s.name          = 'mongoid-tree'
+  s.name          = 'locomotive-mongoid-tree'
   s.version       = '0.6.2'
   s.platform      = Gem::Platform::RUBY
   s.authors       = ['Benedikt Deicke']

@@ -1,7 +1,7 @@
 require 'rspec/core/rake_task'
 require 'rdoc/task'
 
-spec = Gem::Specification.load("mongoid-tree.gemspec")
+spec = Gem::Specification.load("locomotive-mongoid-tree.gemspec")
 
 RSpec::Core::RakeTask.new(:spec)
 
